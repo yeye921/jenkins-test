@@ -17,7 +17,7 @@ public class NumberBaseballGame {
         }
 
         while (true) {
-            System.out.println("Please enter three numbers:");
+            System.out.println("Please enter four numbers:");
             int[] playerNumbers = new int[4];
             for (int i = 0; i < 4; i++) {
                 try {
